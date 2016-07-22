@@ -1,0 +1,10 @@
+//
+//  Debug.xcconfig
+//  TEST
+//
+//  Created by hc_cyril on 16/5/11.
+//  Copyright © 2016年 Clark. All rights reserved.
+//
+
+PRODUCT_BUNDLE_IDENTIFIER = com.fubusili.debug
+ProductDisplayName = 测试环境
